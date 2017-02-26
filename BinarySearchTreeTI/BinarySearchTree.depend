@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1273987661 source:c:\users\scott\documents\codeblockswrkspc\cs300ii\binarysearchtree\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BST.h"
+
+1273986552 c:\users\scott\documents\codeblockswrkspc\cs300ii\binarysearchtree\bst.h
+	<stdio.h>
+
+1273986847 source:c:\users\scott\documents\codeblockswrkspc\cs300ii\binarysearchtree\bst.c
+	<stdlib.h>
+	<stdio.h>
+	"BST.h"
+
